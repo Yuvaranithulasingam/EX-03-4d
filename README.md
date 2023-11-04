@@ -29,7 +29,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/Yuvaranithulasingam/EX-03-4d/assets/121418522/49de2ea2-f244-4ffeb23d-e3f84ca2cb3d)
+![image](https://github.com/Yuvaranithulasingam/EX-03-4d/assets/121418522/7ab546ad-21f9-437e-8dae-20ccaba7e189)
 
 ## RESULT:
 Thus the program to count total number of positive elements in an array has been
